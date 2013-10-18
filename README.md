@@ -22,7 +22,7 @@ There are certainly more query methods that can be created. I simply haven't nee
 
 #### Clone the repo
 
-`git clone`
+`git clone https://github.com/icantrap/android-dawg.git`
 
 #### Build the code
 
