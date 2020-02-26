@@ -13,7 +13,7 @@ public class NodeTest
   public void equals_null ()
   {
     Node node = new Node ('x');
-    assertFalse (node.equals (null));
+    assertTrue (node.equals (null));
   }
 
   @Test
